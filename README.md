@@ -5,3 +5,4 @@
 * [Android AAC](https://github.com/hwangnk1004/Android_study/issues/2)
 * [가비지 컬렉터와 안드로이드 메모리 누수](https://github.com/hwangnk1004/Android_study/issues/3)
 * [Drawable Resize](https://github.com/hwangnk1004/Android_study/issues/4)
+* [Zxing 라이브러리를 통한 바코드 생성](https://github.com/hwangnk1004/Android_study/issues/5)
